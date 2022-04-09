@@ -1,6 +1,6 @@
 # ITCS381 Intro to Multimedia Systems
 
-### This is a compilation of all projects that I have done within the introduction to multimedia systems class.
+#### This is a compilation of all projects that I have done within the introduction to multimedia systems class.
 
 Currently, it consisted of five projects:
 1. Triangulation Matting
