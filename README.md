@@ -14,4 +14,4 @@ There is a folder for each project containing both assignment paper, source code
 
 Thanks to all greatest support, no you, no me, no these projects :3
 
-![Anyachan](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlu-RfJCaNJQxE7hX55wI1fvfOSEKmryaCpW72bx7pPxpS8I-XRWoZ129xCXWjeY9dqCE&usqp=CAU)
+![Anyachan](https://img1.ak.crunchyroll.com/i/spire4/701644b6aee967208fb235bf8cf1535e1639788420_full.jpg)
