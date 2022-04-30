@@ -9,6 +9,7 @@ Currently, it consisted of five projects:
 4. Inpainting
 5. Color Transfer
 6. Mini-Animation
+7. Dub and Sub (Group)
 
 There is a folder for each project containing both assignment paper, source code, and output. All of the listed projects have been done by using MATLAB except the last project that using P5 Javascript.
 
