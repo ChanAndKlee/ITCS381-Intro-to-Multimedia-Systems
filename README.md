@@ -2,6 +2,8 @@
 
 #### This is a compilation of all projects that I have done within the introduction to multimedia systems class.
 
+Status: 100% completed 🥇
+
 Currently, it consisted of five projects:
 1. Triangulation Matting
 
